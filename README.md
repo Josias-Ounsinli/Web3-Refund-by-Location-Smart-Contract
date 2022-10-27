@@ -1,2 +1,5 @@
-# Web3-Refund-by-Location-Smart-Contract
-Web3: Refund by Location Smart Contract
+# Web3: Refund by Location Smart Contract
+
+## Introduction and business objective
+The refund by location smart contract is intended to be used when one party, such as an employer, agrees to pay another party, such as an employee, for being present in a specific geographic area for a specified period of time. At regular intervals, the employee's phone sends its GPS location to a smart contract. When all of the agreed-upon conditions are met, a cryptocurrency payment is executed based on the pre-agreed contract codified in an Ethereum smart contract. If the GPS sensor detects that an employee is outside the agreed-upon GPS range, the contract state will be updated to reflect that it is out of compliance.
+As a result, the goal of this project is to create an Ethereum-based dApp with both the smart contract tested and deployed in a testnet and a front end that allows status monitoring. Before we get into the implementation, we'll go over some fundamental Ethereum blockchain concepts, smart contract implementation, and the Ethereum Virtual Machine (EVM).
