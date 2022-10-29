@@ -1,0 +1,9 @@
+[submodule "openzeppelin-contracts"]
+	path = openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
+[submodule "refund-smart-conract-mobile-app"]
+	path = refund-smart-conract-mobile-app
+	url = https://github.com/jedisam/refund-smart-conract-mobile-app
+[submodule "ether-smart-contract"]
+	path = ether-smart-contract
+	url = https://github.com/Abel-Blue/ether-smart-contract.git
