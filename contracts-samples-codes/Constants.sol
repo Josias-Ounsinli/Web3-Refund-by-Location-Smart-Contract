@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
+pragma solidity >=0.4.16 <0.9.0;
 
 contract Constants {
     // coding convention to uppercase constant variables
